@@ -86,3 +86,6 @@ design pattern
 > 注意事项
 1. 与适配器模式的区别：适配器模式改变接口，而代理模式不改变接口。
 2. 与装饰器模式的区别：装饰器模式用于增强功能，代理模式用于控制访问。
+
+## 相关链接
+菜鸟教程：https://www.runoob.com/design-pattern/design-pattern-tutorial.html
